@@ -1,0 +1,28 @@
+
+#navbarContainer{
+  height: 4vw;
+  margin-bottom: 2vw;
+ }
+.navbar{
+  display: flex;
+  list-style: none;
+  margin-top: -7px;
+  height: 130%;
+  font-size: 1.4vw;
+  font-weight: bold;
+  color: #333333;
+  background: cyan;
+  text-shadow: 2px 2px 0px #FFFFFF, 5px 4px 0px rgba(0,0,0,0.15);
+  }
+.navbarItem{
+  margin-left: 8vw;
+  margin-top: 1vw;
+ }
+#content{
+  display:flex;
+  flex-wrap: wrap;
+  margin:3vw;
+}
+.card{
+  margin-left: 20px;
+}
